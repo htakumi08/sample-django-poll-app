@@ -1,1 +1,1 @@
-## django公式チュートリアルのpollsアプリの作成
+django公式チュートリアルのpollsアプリの作成
